@@ -109,9 +109,9 @@
 
 .neuromorph{
   border-radius: 50%;
-background: linear-gradient(145deg, #ab0e0e, #900c0c);
-box-shadow:  21px 21px 100px #400505,
-             -21px -21px 100px #ff1515;
+  background: #f11010;
+  box-shadow:  50px 50px 100px #e00707,
+               -50px -50px 100px #c1f909;
 }
 
 .neuromorph2{
