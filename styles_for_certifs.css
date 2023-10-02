@@ -149,3 +149,42 @@ box-shadow:  21px 21px 100px #400505,
 .inline-link {
   display: inline;
 }
+
+body{
+  background-color: #b0b0b0;
+}
+
+.hobbies_content{
+  font-family: Arial, sans-serif; /* Set the font family */
+  /*background-color: #f0f0f0; /* Set background color */
+  padding: 20px; /* Add padding for spacing */
+  border-radius: 10px; /* Add rounded corners */
+
+  /* Text styles */
+  color: #333; /* Text color */
+  font-size: 18px; /* Text size */
+  line-height: 1.5; /* Line spacing */
+  text-align: justify; /* Justify text */
+
+  /* Animation */
+  animation: fadeIn 1.5s ease; /* Apply fade-in animation */
+
+  /* Size adjustments */
+  max-width: 100%; /* Limit the maximum width */
+  margin: 0 auto; /* Center the div horizontally */
+
+  /* Box shadow for a subtle effect */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Define the fade-in animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
