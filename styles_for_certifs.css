@@ -188,3 +188,17 @@ body{
     transform: translateY(0);
   }
 }
+
+
+
+.navbarlink a{
+  color: #fff;
+}
+
+.navbarlink a.home{
+  color: #757575;
+}
+
+.navbarlink a:hover{
+  color:#47515a;
+}
