@@ -152,6 +152,19 @@ box-shadow:  21px 21px 100px #400505,
 
 body{
   background-color: #b0b0b0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center{
+  width: 50%;
+  margin: auto;
+}
+
+.heading{
+  margin-bottom: 1.5rem;
+  color: #001f3f;
+  text-shadow: 5px 0px 5px black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .hobbies_content{
