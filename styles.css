@@ -102,6 +102,28 @@
   white-space: nowrap;
   animation: typing 3s steps(60, end);
 }
+
+
+/* Custom CSS for animation */
+.animated-text {
+  position: relative;
+  overflow: hidden;
+}
+
+.animated-text p.skills{
+  animation: slide-up 1s ease forwards;
+}
+
+@keyframes slide-up {
+  from {
+      transform: translateY(100%);
+      opacity: 0;
+  }
+  to {
+      transform: translateY(0);
+      opacity: 1;
+  }
+}
 /* 
 .neuromorph{
   border-radius: 50%;
