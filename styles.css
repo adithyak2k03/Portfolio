@@ -167,12 +167,12 @@
 .section2{
 /* background-color: #E5D9B6; */
 /*   background: linear-gradient(to right,#e0e0e0, #d0d0d0); */ 
-  background: #e0e0e0;
+  background-color: #e0e0e0;
   max-width: 100%;
 }
 
 .section3 .section4 .section5 .section6 .section7 {
-  background: #e0e0e0;
+  background-color: #e0e0e0;
   /* background-color: #72a420; */
 }
 
