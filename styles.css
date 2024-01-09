@@ -167,10 +167,16 @@
 .section2{
 /* background-color: #E5D9B6; */
 /*   background: linear-gradient(to right,#e0e0e0, #d0d0d0); */ 
-  background: #e0e0e0
+  background: #e0e0e0;
   max-width: 100%;
 }
-.section3{
+
+.section3 .section4 .section5 .section6 .section7 {
+  background: #e0e0e0;
+  /* background-color: #72a420; */
+}
+
+/* .section3{
   background: linear-gradient(to left,  #d0d0d0, #c0c0c0);
   /* background-color: #72a420; */
 }
@@ -190,7 +196,7 @@
 .section7{
   background: linear-gradient(to left, #909090, #787878);
   /* background-color: red; */
-}
+} */
 
 body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
